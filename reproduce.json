@@ -1,3 +1,5 @@
 {
-    "model_dir": "/content/drive/"
+    "model_dir": "/content/drive/",
+    "model_path": "/path/to/pretrained_ljs.pth",
+    "text": "VITS is Awesome!"
 }
