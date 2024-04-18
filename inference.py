@@ -46,7 +46,7 @@ _ = net_g.eval()
 
 reproduce_params = reproduce.ReproduceParams()
 
-_ = utils.load_checkpoint(reproduce_params.mpdel_path, net_g, None)
+_ = utils.load_checkpoint(reproduce_params.model_path, net_g, None)
 
 stn_tst = get_text(reproduce_params.text, hps)
 with torch.no_grad():
