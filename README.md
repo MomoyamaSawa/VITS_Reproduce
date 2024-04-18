@@ -1,3 +1,6 @@
+❤ **colab 链接（复现实验）**：https://colab.research.google.com/drive/1zxGBVtbA_owBayZB4KfeI7NlUeLw6vgJ?usp=sharing
+
+
 # VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 
 ### Jaehyeon Kim, Jungil Kong, and Juhee Son
