@@ -7,6 +7,6 @@ class ReproduceParams:
     """
 
     def __init__(self):
-        with open("params.json", "r", encoding="utf-8") as f:
+        with open("reproduce.json", "r", encoding="utf-8") as f:
             params = json.load(f)
         self.model_dir = params["model_dir"]
